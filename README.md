@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Ritu Patel
 
-<!--
-**ritupatel-28/ritupatel-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT / Business Analyst with a background in psychology and UX research.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-SQL
+
+-Excel
+
+-Agile
+
+-Jira
+
+-Data analysis
+
+Projects:
+
+-SQL Data Analysis Practice
+
+-Excel Data Analysis Dashboard
+
+-Agile Workflow Practice
