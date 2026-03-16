@@ -1,23 +1,23 @@
-## Hi there 👋 I'm Ritu Patel
+ Hi there 👋 I'm Ritu Patel
 
-Aspiring IT / Business Analyst with a background in psychology and UX research.
+Aspiring IT / Data Analyst with a background in Psychology and UX research.  
+Currently building projects in SQL, Excel data analysis, and Agile workflow documentation.
 
-Skills:
+🔧 Skills
+- SQL
+- Excel (Pivot Tables, Dashboards)
+- Data Analysis
+- Agile Methodology
+- Jira
 
--SQL
+📊 Projects
+- SQL Data Analysis Practice
+- Excel Data Analysis Dashboard
+- Agile Workflow Practice
+- SQL Data Cleaning Project
 
--Excel
+ 🌱 Currently Learning
+- Data Cleaning in SQL
+- Data Visualization
+- Business Analysis Techniques
 
--Agile
-
--Jira
-
--Data analysis
-
-Projects:
-
--SQL Data Analysis Practice
-
--Excel Data Analysis Dashboard
-
--Agile Workflow Practice
